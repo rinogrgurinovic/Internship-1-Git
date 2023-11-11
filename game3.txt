@@ -1,5 +1,5 @@
-Lucija ima x pobjeda i y poraza!
-Rino ima z pobjeda i n poraza!
+Lucija ima 3 pobjeda i 0 poraza!
+Rino ima 0 pobjeda i 3 poraza!
 
 X . o
 . X o

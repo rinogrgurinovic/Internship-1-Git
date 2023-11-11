@@ -2,5 +2,5 @@ Lucija ima x pobjeda i y poraza!
 Rino ima z pobjeda i n poraza!
 
 X . o
-. . .
+. X .
 . . o
